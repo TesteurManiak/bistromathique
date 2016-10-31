@@ -1,4 +1,4 @@
-#include "my.h"
+#include "../include/my.h"
 
 void	check_doublon(char *str)
 {

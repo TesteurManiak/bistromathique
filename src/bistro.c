@@ -1,4 +1,4 @@
-#include "my.h"
+#include "../include/my.h"
 
 void	init_data(t_op *data, char *av)
 {

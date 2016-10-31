@@ -1,4 +1,4 @@
-#include "my.h"
+#include "../include/my.h"
 #include <stdio.h>
 
 void	calc_subs(char *nb1, char *nb2, char *result)

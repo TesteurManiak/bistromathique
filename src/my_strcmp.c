@@ -1,4 +1,4 @@
-#include "my.h"
+#include "../include/my.h"
 
 int	my_strcmp(char *s1, char *s2)
 {

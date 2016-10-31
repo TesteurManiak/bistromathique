@@ -1,4 +1,4 @@
-#include "my.h"
+#include "../include/my.h"
 
 void	aff_result(char *result)
 {

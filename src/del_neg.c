@@ -1,4 +1,4 @@
-#include "my.h"
+#include "../include/my.h"
 
 void	del_neg(char *str)
 {
