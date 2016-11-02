@@ -32,6 +32,8 @@ char	*my_strdup_res(char *result);
 char	*my_strcpy(char *dest, char *src);
 char	*my_strdup(char *src);
 
+void	calc_add(char *nb1, char *nb2, char *result);
+void	infin_mult(char *nb1, char *nb2);
 void	del_neg(char *str);
 void	send_nb_in_result(char *nb, char *result);
 void	fill_zero(char *str, int len);

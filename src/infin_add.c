@@ -10,7 +10,7 @@ void	send_nb_in_result(char *nb, char *result)
   len2 = my_strlen(result) - 1;
   while (len1 >= 0)
     {
-      result[len2] = nb[len1];
+      result[len2] += (nb[len1] - 48);
       len1--;
       len2--;
     }

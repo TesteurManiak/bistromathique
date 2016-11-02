@@ -13,7 +13,8 @@ SRC	=	src/main.c \
 		src/aff_result.c \
 		src/infin_subs.c \
 		src/check_less.c \
-		src/del_neg.c
+		src/del_neg.c \
+		src/infin_mult.c
 
 OBJ	=	$(SRC:.c=.o)
 

@@ -6,6 +6,7 @@ int	main(int ac, char **av)
     {
       infin_add(av[1], av[2]);
       infin_subs(av[1], av[2]);
+      infin_mult(av[1], av[2]);
     }
   /*if (ac == 4)
     {
